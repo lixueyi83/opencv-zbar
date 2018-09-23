@@ -1,0 +1,3 @@
+/home/li/work/github/opencv-zbar/build/CMakeFiles/edit_cache.dir
+/home/li/work/github/opencv-zbar/build/CMakeFiles/rebuild_cache.dir
+/home/li/work/github/opencv-zbar/build/CMakeFiles/zbar_opencv.dir
